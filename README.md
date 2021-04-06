@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/jaesol0105/jaesol0105/blob/main/hello_wolrd_2.gif" align="center" style="width: 1200%" />
+<img src="https://github.com/jaesol0105/jaesol0105/blob/main/hello_wolrd_2.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">JAESOL LEE, studying at KPU 👨‍💻</div>  
+##### <div align="center">JAESOL LEE, studying at KPU 👨‍💻</div>  
   
 
 <br/>  
