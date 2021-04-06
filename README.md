@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/jaesol0105/jaesol0105/blob/main/hello_wolrd_2.gif" align="center" style="width: 110%" />
+<img src="https://github.com/jaesol0105/jaesol0105/blob/main/hello_wolrd_2.gif" align="center" style="width: 1200%" />
 </div>  
   
 
