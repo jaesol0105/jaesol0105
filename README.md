@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">JAESOL LEE, studying at KPU 👨‍💻</div>  
+#### <div align="center">JAESOL LEE, studying at 한국공학대학교 👨‍💻</div>  
   
 
 <br/>  
