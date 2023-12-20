@@ -19,7 +19,8 @@ R, AWS, JavaScript, JSP, HTML/CSS, MySQL, Oracle, MariaDB, C
 🧑‍🎓 한국공학대학교 컴퓨터공학부 졸업   
 📱 안드로이드 앱 개발  
 
-
+# Email
+beinny9801@gmail.com
 
 
 <!--
