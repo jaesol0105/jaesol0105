@@ -41,4 +41,4 @@
 
 - **Email : beinny9801@gmail.com**
 - **[Tistory](https://beinny.tistory.com)**
-- **[Portfolio](https://coordinated-steam-6ac.notion.site/ab59b256ff6545a9841144be172e7349)**
+- **[Portfolio](https://coordinated-steam-6ac.notion.site/1c6273f2cb2380f29abff5051598a44b)**
