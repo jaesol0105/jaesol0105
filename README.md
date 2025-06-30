@@ -37,8 +37,12 @@
 🧑‍🎓 한국공학대학교 컴퓨터공학부 졸업   
 
 
+### Portfolio
+
+- **[Notion](https://coordinated-steam-6ac.notion.site/21b273f2cb2380d49ab0e57df8726c3c?pvs=74)**
+
+
 ### **Contact & Channel**
 
 - **Email : beinny9801@gmail.com**
 - **[Tistory](https://beinny.tistory.com)**
-- **[Portfolio](https://coordinated-steam-6ac.notion.site/1c6273f2cb2380f29abff5051598a44b)**
