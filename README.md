@@ -7,7 +7,7 @@
 > 성장을 위해 도전하고, 노력하고 있습니다. 🔥  
 
 ```
-실패는 작은 성공이다.
+실패는 작은 성공이다
 ```
 
 ### **Tech Stacks**
@@ -39,7 +39,7 @@
 
 ### Portfolio
 
-- **[Notion](https://coordinated-steam-6ac.notion.site/21b273f2cb2380d49ab0e57df8726c3c?pvs=74)**
+- **[Notion](https://coordinated-steam-6ac.notion.site/_-240273f2cb2380e2913ecdc436558f33)**
 
 
 ### **Contact & Channel**
