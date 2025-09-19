@@ -42,5 +42,4 @@
 ### **Contact & Channel**
 
 - **Email : beinny9801@gmail.com**
-- **[Tistory](https://beinny.tistory.com)**
 - **[Github.io](https://jaesol0105.github.io)**
