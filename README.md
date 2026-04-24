@@ -23,6 +23,7 @@
   <br>
 
 ## 📌 Projects
+- Android - <code><img width="13" height="13" alt="app_icon" src="https://github.com/user-attachments/assets/0423ca41-98a3-4a9f-9875-85bcda66e2d9"></code> [vitameal](https://github.com/lkb0398/vitameal/tree/dev) : 식단 기록, 건강 관리를 위한 Android/iOS 앱 서비스
 - Android - <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/282db479-d23b-4247-a69a-56c99ad3e477"></code> [TeamBoard](https://github.com/jaesol0105/teamBoard) : 팀 협업을 위한 프로젝트 일정 관리 서비스
 - Android - <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/85283532-dbfe-452f-8a83-f6979bdf577a"></code> [AR Furniture](https://github.com/wlsdnjs0707/KPU_FurnitureArrangement) : 증강현실(AR)을 이용한 가구 배치 시뮬레이션 서비스
 - Android - <code><img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/9abf9a7f-2b3e-4ec3-8120-4a1d31148786"></code> [간단한 사진 기록](https://github.com/jaesol0105/PHOTO-RECORD-android-app) : 사진과 날짜 메모를 함께, 나만의 사진 기록 서비스
